@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "RcA5r2KFRDrWF0zra95yrgMGtgVFAUmL4u6D7Vc0zjL1hUG7+YHSibHpIBf8MRa+5WKNNsdwNkCo6nYAzQ4NBw==",
+  "success": true,
+  "projectFilePath": "C:\\Proyectos\\Net\\wrappernet\\WrapperGeo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hector.vargasb\\.nuget\\packages\\dapper\\2.0.123\\dapper.2.0.123.nupkg.sha512",
+    "C:\\Users\\hector.vargasb\\.nuget\\packages\\minimalapis.extensions\\0.3.1-pre.20211111.10\\minimalapis.extensions.0.3.1-pre.20211111.10.nupkg.sha512",
+    "C:\\Users\\hector.vargasb\\.nuget\\packages\\minivalidation\\0.4.0-pre.20211110.38\\minivalidation.0.4.0-pre.20211110.38.nupkg.sha512",
+    "C:\\Users\\hector.vargasb\\.nuget\\packages\\newtonsoft.json\\12.0.1\\newtonsoft.json.12.0.1.nupkg.sha512",
+    "C:\\Users\\hector.vargasb\\.nuget\\packages\\stub.system.data.sqlite.core.netstandard\\1.0.115.5\\stub.system.data.sqlite.core.netstandard.1.0.115.5.nupkg.sha512",
+    "C:\\Users\\hector.vargasb\\.nuget\\packages\\system.data.sqlite.core\\1.0.115.5\\system.data.sqlite.core.1.0.115.5.nupkg.sha512"
+  ],
+  "logs": []
+}
